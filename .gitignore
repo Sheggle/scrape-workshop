@@ -1,0 +1,5 @@
+.venv*/
+.ipynb_checkpoints/
+wachttijden_radar.html
+wachttijden_zorg.csv
+__pycache__/
